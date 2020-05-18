@@ -7,4 +7,4 @@
   学习虚拟存储机制中页面调度算法，通过编程模拟实现页面调度的相关算法（FIFO、LRU和OPT算法），比较各种算法的性能。
   
 # 运行截图
-  
+  ![photo](https://github.com/NukezY/VisualPageReplacement/blob/master/image/photo.png)
